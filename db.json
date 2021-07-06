@@ -1,0 +1,32 @@
+{
+  "brands": [
+    {
+      "_id": 1,
+      "name": "Audi"
+    },
+    {
+      "_id": 2,
+      "name": "BMW"
+    },
+    {
+      "_id": 3,
+      "name": "VW"
+    },
+    {
+      "_id": 4,
+      "name": "Gucci"
+    },
+    {
+      "_id": 5,
+      "name": "Samsung"
+    },
+    {
+      "_id": 6,
+      "name": "Nokia"
+    },
+    {
+      "_id": 7,
+      "name": "Braun"
+    }
+  ]
+}
